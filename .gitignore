@@ -12,7 +12,7 @@ venv/
 
 # Secrets
 *.env
-
+downloads/
 # OS
 .DS_Store
 Thumbs.db
